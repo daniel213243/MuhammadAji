@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "judul":"Bill Gates Sebut Suntik Vaksin Corona Tak Cukup Sekali",
+        "img":"/jow.jpg",
+        "link":"/berita/1",
+        "isi":"Gates juga mengabarkan vaksin buatan Moderna akan memulai langkah penting akhir bulan Juli 2020. Vakin yang memerlukan dua dosis dalam bekerja itu akan melakukan diuji terhadap 30.000 orang untuk membuktikan apakah vaksin itu benar-benar cukup kuat untuk melindungi tubuh dari virus corona baru.Melansir Fox Business, Gates enggan lebih dini menyimpulkan efektafitas vaksin. Namun, hasil uji awal menunjukkan bahwa vaksin buatan Moderna dan Astrazeneca sama-sama menunjukkan hasil positif terhadap respons kekebalan. "
+    },
+    {
+        "id":2,
+        "judul":"Jangan Kaget! Ini Waktu untuk Beri Vaksin Corona ke Warga RI",
+        "img":"/sun.jpg",
+        "link":"/berita/2",
+        "isi":" masalah ketersediaan vaksin, Amin juga mengungkap waktu yang dibutuhkan untuk vaksinasi seluruh masyarakat Indonesia. Untuk hal ini dibutuhkan waktu yang cukup lama.Indonesia perlu vaksinasi 70% penduduk Indonesia atau sekitar 170 juta orang. Menurut para ahli, dibutuhkan dua dosis vaksin agar tubuh manusia bisa optimal menciptakan antibodi melawan corona sehingga dibutuhkan 350 juta dosis vaksin Covid-19."
+    },
+    {
+        "id":3,
+        "judul":"Rincian Serapan Stimulus Penanganan Corona yang Bikin Jokowi Kesal",
+        "img":"/gate.jpg",
+        "link":"/berita/3",
+        "isi":"isi3Pada program pemulihan ekonomi nasional (PEN), pemerintah menganggarkan Rp 695,2 triliun dan dialokasikan untuk sektor kesehatan sebesar Rp 87,55 triliun, perlindungan sosial Rp 203,90 triliun, insentif usaha Rp 120,61 triliun, UMKM sebesar Rp 123,46 triliun, pembiayaan korporasi Rp 53,57 triliun, dan sektoral kementerian/lembaga (k/L) serta pemda sebesar Rp 106,11 triliun.Kepala Badan Kebijakan Fiskal (BKF) Kementerian Keuangan Febrio Kacaribu mengaku percepatan penyerapan anggaran PEN menjadi tantangan pemerintah pusat maupun daerah."
+    }
+]
